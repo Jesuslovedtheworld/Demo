@@ -27,8 +27,9 @@ public class MainActivity extends AppCompatActivity {
      * 聊车
      */
     private TextView four;
-    private int a = 100;
-    private int b = 100;
+    private String a = "one";
+    private String b = "two";
+    private String c = "three";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
