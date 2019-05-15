@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
      */
     private TextView four;
 
-    private String gme = "浏览器修改的";
+  
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
